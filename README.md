@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Email: subedikad@gmail.com
+Email: subedikad@gmail.com <br />
 LinkedIn: www.linkedin.com/in/subedika-debbarma
 
 ## Future Improvements
