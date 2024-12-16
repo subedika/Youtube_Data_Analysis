@@ -50,6 +50,20 @@ cd youtube-transcript-analysis
 4. Run the notebook
 
 ## Sample Outputs
+
+<p align="left">
+  <img src="images/ss1.png" width="800">
+</p><br/>
+<p align="left">
+  <img src="images/top_ten.png" width="800">
+</p><br/>
+<p align="left">
+  <img src="images/vid_eng.png" width="800">
+</p><br/>
+<p align="left">
+  <img src="images/vid_length.png" width="800">
+</p><br/>
+
 ## Metrics Explained
 
 - Engagement Rate: (Likes + Comments) / Views × 100
